@@ -12,26 +12,26 @@
 /* Color Palette and Variables - REVISED for CLEAN CANVAS / LIME GREEN */
 :root {
     --font-family: 'Inter', sans-serif;
-    --bg-light: #F8F8F8; /* Very light gray/off-white background */
-    --card-light: #FFFFFF; /* Pure white for panels */
-    --border-light: #E0E0E0; /* Light gray for borders */
-    --text-dark: #333333; /* Dark gray for primary text */
-    --text-muted: #707070; /* Muted gray for secondary text */
-    --text-placeholder: #B0B0B0; /* Even lighter gray for placeholders */
+    --bg-light: #F8F8F8; 
+    --card-light: #FFFFFF; 
+    --border-light: #E0E0E0; 
+    --text-dark: #333333;
+    --text-muted: #707070; 
+    --text-placeholder: #B0B0B0; 
 
-    --accent-primary: #7FFF00; /* Primary bright accent: Chartreuse/Lime Green */
-    --accent-secondary: #5CB800; /* Slightly darker green for depth/hover */
-    --accent-tertiary: #A3FF47; /* Lighter green for subtle glow */
+    --accent-primary: #7FFF00; 
+    --accent-secondary: #5CB800; 
+    --accent-tertiary: #A3FF47; 
 
-    --shadow-light: rgba(0, 0, 0, 0.08); /* Subtle shadow for elevation */
-    --shadow-hover: rgba(127, 255, 0, 0.2); /* Green glow for hover */
+    --shadow-light: rgba(0, 0, 0, 0.08); 
+    --shadow-hover: rgba(127, 255, 0, 0.2); 
     
     --padding-main: 2rem; 
-    --radius-main: 0.5rem; /* Softened corners */
+    --radius-main: 0.5rem; 
     --radius-small: 0.25rem;
 }
 
-/* Generative Pulsing Animation (Adapted for light theme) */
+
 @keyframes pulseGlow {
     0% { box-shadow: 0 0 5px rgba(127, 255, 0, 0.4); opacity: 0.9; }
     50% { box-shadow: 0 0 15px rgba(127, 255, 0, 0.6), 0 0 5px rgba(92, 184, 0, 0.3); opacity: 1; }
