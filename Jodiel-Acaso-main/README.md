@@ -1,6 +1,6 @@
 # 🎬 Modular Media Streaming Suite
 
-A modular, front-end media player built with plain JavaScript — supporting **local MP4 playback**, **HLS streaming**, **remote API sources**, and **optional plugins** like subtitles, equalizer FX, and watermark overlay.
+A modular, front-end media player built with plain JavaScript supporting **local MP4 playback**, **HLS streaming**, **remote API sources**, and **optional plugins** like subtitles, equalizer FX, and watermark overlay.
 
 ---
 
