@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Elephant’s Dream (Short Film)",
+    "type": "url",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "name": "Sintel (Blender Foundation)",
+    "type": "url",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+  },
+  {
+    "name": "Tears of Steel (Sci-Fi Short)",
+    "type": "url",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+  },
+  {
+    "name": "For Bigger Blazes (Tech Demo)",
+    "type": "url",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  }
+]
