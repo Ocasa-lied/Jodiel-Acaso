@@ -1,11 +1,10 @@
-# Modular Media Streaming Suite
-# 🎬 Modular Media Streaming Suite
+#  Modular Media Streaming Suite
 
 A modular, front-end media player built with plain JavaScript supporting **local MP4 playback**, **HLS streaming**, **remote API sources**, and **optional plugins** like subtitles, equalizer FX, and watermark overlay.
 
 ---
 
-## 🧩 Features
+##  Features
 
 - Modular structure (Renderer, Sources, Plugins)
 - Supports:
@@ -21,7 +20,7 @@ A modular, front-end media player built with plain JavaScript supporting **local
 
 ---
 
-## 🏗 Folder Structure
+## Folder Structure
 
 ```
 ModularMediaStreamingSuite/
@@ -56,12 +55,12 @@ ModularMediaStreamingSuite/
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 Because the Service Worker and media streaming APIs require an HTTP context,  
 **you must run the project on a local web server**, not just open it by double-clicking.
 
-### 🧰 Option 1: Using Python (Quick Start)
+### Option 1: Using Python (Quick Start)
 
 ```bash
 # Navigate to the project folder
@@ -77,7 +76,7 @@ Then open your browser to:
 
 ---
 
-### 🧰 Option 2: Using Node.js (http-server)
+###  Option 2: Using Node.js (http-server)
 
 If you have Node.js installed:
 
@@ -92,7 +91,7 @@ Then open:
 
 ---
 
-## 🎥 Running the Demo
+## Running the Demo
 
 Once opened in your browser:
 
@@ -109,7 +108,7 @@ Once opened in your browser:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 There are no automated tests — but you can manually test:
 
@@ -125,7 +124,7 @@ To verify caching:
 
 ---
 
-## 🧩 Notes
+## Notes
 
 - Service Worker won’t work if opened directly via `file://`
 - Works best in **Chrome, Edge, or Firefox**
