@@ -72,7 +72,7 @@ python -m http.server 8080
 
 Then open your browser to:
 
-👉 http://localhost:8080
+👉 http://localhost:3000
 
 ---
 
@@ -87,7 +87,7 @@ http-server . -p 8080
 
 Then open:
 
-👉 http://localhost:8080
+👉 http://localhost:3000
 
 ---
 
